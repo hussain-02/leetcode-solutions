@@ -7,8 +7,14 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

@@ -1,22 +1,31 @@
 class Solution {
+    public void addList(ArrayList<Integer> list , int x){
+        if(list.isEmpty() || list.get(list.size() -1) != x){
+            list.add(x);
+        }
+    }
     public int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> set = new HashSet<>();
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
 
-        for(int i : nums1){
-            for(int j : nums2){
-                if(i == j){
-                    set.add(i);
-                    break;
-                }  
-            }
+         ArrayList<Integer> list = new ArrayList<>();
+        int i = 0, j = 0;
+        while( i < nums1.length && j < nums2.length){
+            if(nums1[i] == nums2[j]){
+                addList(list,nums1[i]);
+                i++;
+                j++;
+            }else if(nums1[i] < nums2[j]) i++;
+            else j++;
         }
 
+        int[] res = new int[list.size()];
 
-        int ans[] = new int[set.size()];
-        int k = 0;
-        for(int i : set){
-            ans[k++] = i;
+        for(int k = 0 ; k < res.length ; k++){
+            res[k] = list.get(k);
         }
-        return ans;
+
+        return res;
+        
     }
 }

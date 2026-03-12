@@ -16,5 +16,14 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

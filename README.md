@@ -22,8 +22,14 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

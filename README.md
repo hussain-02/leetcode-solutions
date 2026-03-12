@@ -17,6 +17,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +46,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0016-3sum-closest](https://github.com/hussain-02/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |

@@ -29,6 +29,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |

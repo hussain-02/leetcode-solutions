@@ -43,6 +43,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -70,6 +71,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hussain-02/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |

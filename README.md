@@ -27,6 +27,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0016-3sum-closest](https://github.com/hussain-02/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hussain-02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +42,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/hussain-02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/hussain-02/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |

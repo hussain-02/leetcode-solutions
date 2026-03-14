@@ -1,23 +1,24 @@
 class Solution {
-    public boolean check(String s , int l , int r){
-        while(l <= r){
-            if(s.charAt(l) == s.charAt(r)) {
-                l++;
-                r--;
-            }else return false;
-        }
-        return true;
-    }
     public int countSubstrings(String s) {
-        int cnt =0;
-        for(int i = 0 ; i < s.length() ; i++){
-           for(int j = i + 1 ; j < s.length() ; j++){
-            boolean sub =  check(s,i,j);
-            if(sub) cnt++;
-           }
-           cnt++;
+        int count = 0;
+
+        for(int i = 0 ; i < s.length();i++){
+
+            count += check(s,i,i);
+            count += check(s,i,i+1);
         }
 
+        return count;
+
+    }
+
+    public int check(String s , int l ,int r){
+        int cnt = 0;
+        while( l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
+            cnt++;
+            l--;
+            r++;
+        }
         return cnt;
     }
 }

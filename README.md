@@ -11,6 +11,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0151-reverse-words-in-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/hussain-02/leetcode-solutions/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/hussain-02/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -70,6 +71,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0345-reverse-vowels-of-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/hussain-02/leetcode-solutions/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/hussain-02/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |

@@ -6,6 +6,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/hussain-02/leetcode-solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -48,6 +49,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hussain-02/leetcode-solutions/tree/master/0016-3sum-closest) |
@@ -107,4 +109,8 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

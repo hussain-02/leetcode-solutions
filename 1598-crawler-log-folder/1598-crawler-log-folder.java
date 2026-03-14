@@ -1,13 +1,12 @@
 class Solution {
     public int minOperations(String[] logs) {
-        int k = 0;
+          Stack<String> ss = new Stack<>();
         for(String s : logs){
             if("../".equals(s)){
-                if(k == 0) continue;
-                else k--;
-            }else if("./".equals(s)) continue;
-            else k++;
+                if(ss.isEmpty()) continue;
+                else ss.pop();
+            }else if(!"./".equals(s)) ss.push(s);
         }
-        return k;
+        return ss.size();
     }
 }

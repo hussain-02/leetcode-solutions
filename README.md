@@ -11,6 +11,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -18,6 +19,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -104,4 +106,5 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

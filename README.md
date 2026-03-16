@@ -6,6 +6,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hussain-02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -101,6 +102,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hussain-02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/hussain-02/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -128,6 +130,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hussain-02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)

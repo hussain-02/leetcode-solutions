@@ -50,6 +50,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0905-sort-array-by-parity](https://github.com/hussain-02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,8 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/hussain-02/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->

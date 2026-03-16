@@ -51,6 +51,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hussain-02/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +129,9 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->

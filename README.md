@@ -49,6 +49,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/hussain-02/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/hussain-02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +104,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0209-minimum-size-subarray-sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -137,6 +139,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hussain-02/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -148,5 +151,6 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

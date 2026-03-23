@@ -10,6 +10,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hussain-02/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/hussain-02/leetcode-solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -31,6 +32,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -50,6 +52,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/hussain-02/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/hussain-02/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -107,6 +110,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/hussain-02/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |

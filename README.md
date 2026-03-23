@@ -35,6 +35,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hussain-02/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2439-minimize-maximum-of-array](https://github.com/hussain-02/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hussain-02/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [2439-minimize-maximum-of-array](https://github.com/hussain-02/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
@@ -119,6 +121,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2439-minimize-maximum-of-array](https://github.com/hussain-02/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +152,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/hussain-02/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [2439-minimize-maximum-of-array](https://github.com/hussain-02/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +173,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0209-minimum-size-subarray-sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2439-minimize-maximum-of-array](https://github.com/hussain-02/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |

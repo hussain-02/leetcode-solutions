@@ -45,6 +45,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hussain-02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/hussain-02/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hussain-02/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hussain-02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -136,6 +137,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hussain-02/leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -171,4 +173,8 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hussain-02/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

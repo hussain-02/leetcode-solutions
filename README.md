@@ -22,6 +22,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
@@ -30,6 +31,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hussain-02/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -51,6 +53,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0287-find-the-duplicate-number](https://github.com/hussain-02/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/hussain-02/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/hussain-02/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -84,6 +87,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/hussain-02/leetcode-solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/hussain-02/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -100,6 +104,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0075-sort-colors](https://github.com/hussain-02/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hussain-02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/hussain-02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,4 +167,8 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0209-minimum-size-subarray-sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/hussain-02/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0011-container-with-most-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/hussain-02/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0905-sort-array-by-parity](https://github.com/hussain-02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hussain-02/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/hussain-02/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1598-crawler-log-folder](https://github.com/hussain-02/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hussain-02/leetcode-solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -98,6 +100,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0881-boats-to-save-people](https://github.com/hussain-02/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/hussain-02/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/hussain-02/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Binary Search
 |  |
 | ------- |

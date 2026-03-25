@@ -47,6 +47,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hussain-02/leetcode-solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/hussain-02/leetcode-solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/hussain-02/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hussain-02/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -188,5 +189,6 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/hussain-02/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hussain-02/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

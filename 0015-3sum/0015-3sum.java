@@ -1,41 +1,38 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        
         List<List<Integer>> res = new ArrayList<>();
+
+        int n = nums.length;
+        
         Arrays.sort(nums);
-        for(int i = 0 ; i < nums.length;i++){
+
+        for(int i = 0; i < n ; i++){
+            int l = i + 1;
+            int r = n - 1;
+
             if(i > 0 && nums[i] == nums[i-1]) continue;
 
-            int j = i+1;
-            int k = nums.length-1;
-            while(j < k ){
-                int total = nums[i] + nums[j] + nums[k];
+            while(l < r){
+                int sum = nums[i] + nums[l]+nums[r];
+                if(sum == 0){
 
-                if(total > 0) k--;
-                else if(total < 0) j++;
-                else{
-                    res.add(Arrays.asList(nums[i] , nums[j] , nums[k]));
-                    j++;
-                    while(nums[j] == nums[j - 1] && j < k) j++;
+                    res.add(Arrays.asList(nums[i],nums[l],nums[r]));
+
+                    while(l < r && nums[l] == nums[l + 1]) l++; 
+                    while(l < r && nums[r] == nums[r - 1]) r--;
+
+                    l++;
+                    r--;  
+
+                }else if(sum > 0){
+                    r--;
+                }
+                else if(sum < 0){
+                    l++;
                 }
             }
         }
         return res;
-        //  List<List<Integer>>  ans = new ArrayList<>();
-        // int n = nums.length;
-        // for(int i = 0 ; i < n ; i++){
-        //     for(int j = i + 1 ; j < n ; j++){
-        //         for(int k = j + 1 ; k < n ; k++){
-
-        //             if(nums[i] + nums[j] + nums[k] == 0){
-        //                 List<Integer> l = Arrays.asList(nums[i],nums[j],nums[k]);
-        //                 Collections.sort(l);
-
-        //                 if(!ans.contains(l)) ans.add(l);
-        //             }
-        //         }
-        //     }
-
-        // }
-        // return ans;
     }
 }

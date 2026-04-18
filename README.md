@@ -23,6 +23,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hussain-02/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/hussain-02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hussain-02/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -47,6 +48,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0018-4sum](https://github.com/hussain-02/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hussain-02/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hussain-02/leetcode-solutions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/hussain-02/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hussain-02/leetcode-solutions/tree/master/0078-subsets) |
@@ -84,6 +86,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussain-02/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hussain-02/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hussain-02/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hussain-02/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hussain-02/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -159,6 +162,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hussain-02/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/hussain-02/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [2439-minimize-maximum-of-array](https://github.com/hussain-02/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -186,6 +190,7 @@ LeetCode solutions with clean implementations and optimized approaches for Data 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hussain-02/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hussain-02/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Backtracking
 |  |
